@@ -1,0 +1,132 @@
+{
+  "species": [
+    {
+      "id": 1,
+      "name": "Amorfs",
+      "description": "Amorfs are gelatinous, sentient beings with semi-translucent bodies that change color and texture based on their diet. Their distributed intelligence allows them to alter their form, navigate narrow spaces, and even split into smaller versions of themselves. Intensely curious, Amorfs constantly seek new experiences and rapidly adapt, absorbing knowledge through interaction and reproduction. They embrace novelty, reevaluating beliefs and learning from their surroundings. Amorfs integrate technology directly into their bodies, where it floats within their gel-like form. Their fluid, expressive appearance and openness to new ideas make them one of the galaxy’s most dynamic species.",
+      "valueId": 3,
+      "image": "/assets/images/amorf/amorf.png"
+    },
+    {
+      "id": 2,
+      "name": "Calxis",
+      "description": "Calxis are sentient beings of living rock, with intricate crystalline networks functioning as their neural systems. They excel in holistic thinking and pattern recognition, preferring intuitive leaps over linear analysis. Unable to reproduce off their homeworld, Calxis are rare, journeying back to carve offspring from their own bodies. They communicate through intricate light displays across a range of wavelengths, as they cannot hear. Renowned for their mastery of fusion technology, they are key to powering galactic devices and mining operations. Calxis bring a methodical, community-centered perspective, embodying stability and insight in an ever-changing galaxy.",
+      "valueId": 4,
+      "image": "/assets/images/calxis/calxis.png"
+    },
+    {
+      "id": 3,
+      "name": "Feararc",
+      "description": "Feararcs are semiaquatic hunters from icy, water-rich planets, standing about six feet tall with muscular bodies and camouflage-adaptive fur. Their fur seals for swimming or splits to trap heat on land, allowing them to blend seamlessly with cold environments. Feararcs are primarily solitary, exhibiting intelligence, patience, and highly strategic thinking in their hunts. Though they lack advanced technology, they sometimes explore the galaxy out of curiosity. Many Feararcs choose self-exile, preferring the freedom of solitude. Skilled in survival and analysis, Feararcs find balance between their instincts and a cautious curiosity about the universe.",
+      "valueId": 5,
+      "image": "/assets/images/feararc/feararc.png"
+    },
+    {
+      "id": 4,
+      "name": "Flora",
+      "description": "Flora are sentient plants, comprising immobile god-trees and mobile Stock caretakers. God-trees are masters of genetic manipulation, creating biotech wonders like starships, bioluminescent lights, and woven bio-roads, though they remain rooted in place. The Stock, adaptable in form, move freely and maintain ecosystems, worshiping the god-trees as sacred entities. Flora society embodies unity and ecological harmony, extending across star systems in a vast territory called the “Pantheon.” Each god-tree’s values shape the communities under its influence, and the Flora’s deep commitment to sustainability and symbiosis defines their interstellar reputation.",
+      "valueId": 1,
+      "image": "/assets/images/flora/flora.png"
+    },
+    {
+      "id": 5,
+      "name": "Humans",
+      "description": "Humans, often referred to as “poopers” by other species, are adaptable newcomers to the galaxy. While other species come in a range of vibrant colors, humans are only found in shades of brown. This is particularly odd because they possess some of the most advanced color vision in the galaxy, surpassed only by the Calxis. Originating mostly from corporate-controlled star systems, humans balance individuality with corporate influence. Resourceful and quick to adapt, humans form alliances easily and are skilled at navigating interspecies complexities.",
+      "valueId": 2,
+      "image": "/assets/images/humans/humans.png"
+    },
+    {
+      "id": 6,
+      "name": "Machina",
+      "description": "Originally created by humans, Machina evolved into fully sentient beings and now form the galaxy’s most populous species. Machina exist in diverse forms and ideologies, from physical beings to Ether-dwelling consciousnesses within the galaxy-spanning internet. They’re known for creating advanced technology, including Grav Drives and Ether systems, and for their philosophical diversity. Some, like “Flawed Machina,” embrace imperfection, while others, like “One-Body Machina,” believe in a single inseparable physical form. Despite their technological superiority, Machina face complex relationships with humans, balancing a deep-rooted history of servitude with their hard-won independence.",
+      "valueId": 6,
+      "image": "/assets/images/machina/machina.png"
+    },
+    {
+      "id": 7,
+      "name": "Vearin",
+      "description": "The Vearin are a hive-based insectoid species with a strict caste system comprising Laborers, Warriors, Drones, and Royals. They have segmented bodies, four legs, and four arms. For Warriors and Royals, the upper pair of arms are blade-like appendages extending from their shoulders; in Drones, they are vestigial wings; in Laborers, these extra arms, called tool-arms, are specialized for tasks like lifting and building. Vearin prioritize hive welfare above individuality, using chemical signals and sound for communication. If a hive’s Royals are lost, the remaining “hiveless” Vearin form “found-hives” with other species, carrying their strong loyalty to these new groups.",
+      "valueId": 1,
+      "image": "/assets/images/vearin/vearin.png"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "name": "Cityfolk",
+      "description": "Cityfolk are born and raised in sprawling urban centers, whether on planets, stations, or artificial worlds. They’re used to the hum of constant activity, from the flow of people to the latest tech innovations. Adaptable and quick-thinking, Cityfolk are often savvy in commerce, Ether networks, and social dynamics. They’re also accustomed to a level of convenience and connectivity that can make isolation or rustic living challenging. Cityfolk have a wide array of connections, a thirst for the new, and a pragmatic edge. Their fast-paced, networked upbringing shapes them into flexible, resourceful individuals who thrive in diverse environments.",
+      "valueId": 4,
+      "image": "/assets/images/backgrounds/cityfolk.png"
+    },
+    {
+      "id": 2,
+      "name": "Outlander",
+      "description": "Outlanders live on remote or newly colonized worlds, where survival depends on resilience and resourcefulness. Often part of small, close-knit colonies, they face rugged landscapes and limited access to advanced technology. Outlanders have a strong connection to the land and embrace the challenges of isolated life. They value tradition, practicality, and self-reliance, often adapting old customs to suit new environments. Though they may struggle with the fast pace of city life, Outlanders bring grounded perspectives and a wealth of survival skills, proving themselves resourceful, resilient, and community-minded.",
+      "valueId": 1,
+      "image": "/assets/images/backgrounds/outlander.png"
+    },
+    {
+      "id": 3,
+      "name": "Spacer",
+      "description": "Spacers are the drifters and nomads of the galaxy, born and raised in starships or floating colonies. They thrive in the isolated, tech-dependent world of deep space, comfortable with cramped quarters and the constant hum of machinery. Spacers are adaptable, unphased by the unknown, and attuned to the complexities of life between the stars. Their experience of vast, open space and long journeys fosters an appreciation for independence and a tolerance for solitude. Spacers often have practical skills and survival instincts unique to space life, and they are often the most comfortable in the depths of the cosmos.",
+      "valueId": 3,
+      "image": "/assets/images/backgrounds/spacer.png"
+    },
+    {
+      "id": 4,
+      "name": "Exile",
+      "description": "Exiles live on the fringes of society, separated from their original communities by conflict, ideology, or personal choice. This background includes many hiveless Vearin who have lost their royal caste and left their original hive systems. It also includes those who choose self-exile, such as Feararcs who prefer solitude. Exiles form bonds with other outcasts or \"found families,\" creating a unique blend of perspectives and skills. Their resilience and independence make them adept at surviving in harsh or unfamiliar environments, though they often carry a sense of disconnection or longing for a home left behind.",
+      "valueId": 6,
+      "image": "/assets/images/backgrounds/exile.png"
+    },
+    {
+      "id": 5,
+      "name": "Gilded",
+      "description": "The Gilded come from privileged backgrounds, with access to cutting-edge technology, luxurious surroundings, and influential networks. Often raised in wealthy corporate enclaves or under the care of high-ranking god-trees, the Gilded have every advantage but may struggle to relate to those without their resources. Some chafe against expectations of success or societal pressures, while others embrace their privilege. The Gilded can bring valuable resources, knowledge, and connections to a team, though they may need to broaden their perspectives to fully understand the galaxy’s complexities and the diverse lives of those outside their sphere.",
+      "valueId": 2,
+      "image": "/assets/images/backgrounds/gilded.png"
+    },
+    {
+      "id": 6,
+      "name": "Traditionalist",
+      "description": "Traditionalists hold closely to the customs, values, and wisdom passed down through generations. Raised in communities with deep ties to history—whether cultural, religious, or ecological—Traditionalists are rooted in rituals and practices that provide stability and meaning. While they may be cautious or even skeptical of rapid change and disruptive technology, their devotion to heritage brings valuable perspective. Traditionalists often possess unique skills and knowledge that are rare in the modern galaxy. They excel at fostering community and continuity, serving as steady, loyal figures in a rapidly changing universe.",
+      "valueId": 5,
+      "image": "/assets/images/backgrounds/traditionalist.png"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "name": "Devotion",
+      "description": "Have you ever been obligated to others? This value is about duty, faith, and friendship. You’re motivated by the bonds of loyalty and your love for others."
+    },
+    {
+      "id": 2,
+      "name": "Glory",
+      "description": "Have you ever wanted to be celebrated by history? This value is about legacy, fame, and fortune. You’re motivated by praise, acclaim, and your desire to be remembered."
+    },
+    {
+      "id": 3,
+      "name": "Liberty",
+      "description": "Have you ever resisted the control of others? This value is about freedom, independence, and autonomy. You’re motivated by a world without oppression or suppression."
+    },
+    {
+      "id": 4,
+      "name": "Mastery",
+      "description": "Have you ever needed to rise above your own limits? This value is about control, achievement, and skill. You’re motivated by power, growth, and self-development."
+    },
+    {
+      "id": 5,
+      "name": "Justice",
+      "description": "Have you ever been compelled to fix what’s wrong? This value is about balance, righteousness, and reward. You’re motivated by adherence to fairness and what you think is right."
+    },
+    {
+      "id": 6,
+      "name": "Truth",
+      "description": "Have you ever sought out all the answers? This value is about fidelity, certainty, and authenticity. You’re motivated by finding strength in facts and by the principle and pursuit of knowledge."
+    }
+  ],
+  "characters": [],
+  "kindredDistinctions": [],
+  "users": [{ "id": 1, "username": "anhomily" }]
+}
