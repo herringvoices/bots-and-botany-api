@@ -30,10 +30,10 @@
     },
     {
       "id": 5,
-      "name": "Humans",
+      "name": "Human",
       "description": "Humans, often referred to as “poopers” by other species, are adaptable newcomers to the galaxy. While other species come in a range of vibrant colors, humans are only found in shades of brown. This is particularly odd because they possess some of the most advanced color vision in the galaxy, surpassed only by the Calxis. Originating mostly from corporate-controlled star systems, humans balance individuality with corporate influence. Resourceful and quick to adapt, humans form alliances easily and are skilled at navigating interspecies complexities.",
       "valueId": 2,
-      "image": "/images/humans/humans.png"
+      "image": "/images/human/human.png"
     },
     {
       "id": 6,
