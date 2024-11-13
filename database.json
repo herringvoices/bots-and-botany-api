@@ -128,5 +128,168 @@
   ],
   "characters": [],
   "kindredDistinctions": [],
-  "users": [{ "id": 1, "username": "anhomily" }]
+  "users": [{ "id": 1, "username": "anhomily" }],
+  "sfx": [
+    {
+      "id": 1,
+      "name": "Tool Sample",
+      "description": "When you use your Amorf distinction to create an asset, you may step up your effect die for free."
+    },
+    {
+      "id": 2,
+      "name": "Hard to Kill",
+      "description": "When an opponent inflicts Injury stress on you, treat their effect die as one less. (minimum of 4)"
+    },
+    {
+      "id": 3,
+      "name": "Inspired Instinct",
+      "description": "Spend a PP to step up your Spirit die in your dice pool for a test, contest, or challenge that draws on your creative instincts."
+    },
+    {
+      "id": 4,
+      "name": "Mimicry",
+      "description": "Spend a PP to mimic a sound, voice, or behavior, giving yourself or an ally a 8 asset for a single test, contest, or challenge."
+    },
+    {
+      "id": 5,
+      "name": "Winged",
+      "description": "Spend a PP to add both your Agility and your Strength dice to your dice pool when you are airborne or using your wings."
+    },
+    {
+      "id": 6,
+      "name": "Flighty",
+      "description": "Spend a PP to join or leave a scene that is already underway that includes an ally."
+    },
+    {
+      "id": 7,
+      "name": "Hard to Fool",
+      "description": "When an opponent attempts to deceive you, you can spend a PP to force them to reroll their pool."
+    },
+    {
+      "id": 8,
+      "name": "Calxis Might",
+      "description": "Spend a PP to step up your Strength die in your dice pool for a test, contest, or challenge that factors in your power and endurance."
+    },
+    {
+      "id": 9,
+      "name": "Hunting Party",
+      "description": "When you use your kindred distinction in a challenge, spend a PP to add an additional 6 for each of your allies undertaking the challenge with you."
+    },
+    {
+      "id": 10,
+      "name": "Surefooted",
+      "description": "When in difficult terrain, replace two dice of the same size in your dice pool with a single die of one size higher."
+    },
+    {
+      "id": 11,
+      "name": "Heightened Senses",
+      "description": "Spend a PP to step up your Awareness die in your dice pool for a test, contest, or challenge that factors in your senses."
+    },
+    {
+      "id": 12,
+      "name": "Rooted",
+      "description": "When in contact with soil or minerals, replace two dice of the same size in your dice pool with a single die of one size higher."
+    },
+    {
+      "id": 13,
+      "name": "Fellowship",
+      "description": "When you use your kindred distinction in a test, contest, or challenge, you may keep an additional effect die and grant it to another character as an asset."
+    },
+    {
+      "id": 14,
+      "name": "Photosynthetic",
+      "description": "When you enjoy direct sunlight during a recovery scene, choose a stress to step down twice instead of once."
+    },
+    {
+      "id": 15,
+      "name": "Relentless",
+      "description": "When you would be stressed out of a scene, spend a PP to step down the affected stress and remain in the scene instead."
+    },
+    {
+      "id": 16,
+      "name": "Resourceful",
+      "description": "Activate an opportunity to switch out an existing asset for two assets of one step lower in size."
+    },
+    {
+      "id": 17,
+      "name": "Reliable",
+      "description": "Spend a PP to reroll your dice when creating an asset with a test. You must keep the result of this new roll."
+    },
+    {
+      "id": 18,
+      "name": "Ether Connected",
+      "description": "Spend a PP to step up your Intellect die in your dice pool for a test, contest, or challenge that draws on factual information."
+    },
+    {
+      "id": 19,
+      "name": "Mechanical Being",
+      "description": "Spend a PP to ignore either your Exhausted, Injured, or Insecure stress for the duration of a test, contest, or challenge."
+    },
+    {
+      "id": 20,
+      "name": "Mechanical Attribute",
+      "description": "When you download into a body, pick an attribute. You may spend a PP to step up that Attribute die in your dice pool for a test, contest, or challenge while occupying that body."
+    },
+    {
+      "id": 21,
+      "name": "Hive Minded",
+      "description": "Choose up to five allies. Spend a PP to add a 6 for each ally to your dice pool when creating an asset with a test. Keep an additional effect die for each ally."
+    },
+    {
+      "id": 22,
+      "name": "Resolute",
+      "description": "Spend a PP to add one of your stress dice to a test, contest, or challenge. Step down that stress die afterwards."
+    },
+    {
+      "id": 23,
+      "name": "Insect Might",
+      "description": "Spend a PP to step up your Strength die in your dice pool for a test, contest, or challenge that factors in your power and endurance."
+    }
+  ],
+  "speciesSfx": [
+    { "id": 1, "speciesId": 1, "sfxId": 1 },
+    { "id": 2, "speciesId": 1, "sfxId": 2 },
+    { "id": 3, "speciesId": 1, "sfxId": 3 },
+    { "id": 4, "speciesId": 2, "sfxId": 4 },
+    { "id": 5, "speciesId": 2, "sfxId": 5 },
+    { "id": 6, "speciesId": 2, "sfxId": 6 },
+    { "id": 7, "speciesId": 3, "sfxId": 2 },
+    { "id": 8, "speciesId": 3, "sfxId": 7 },
+    { "id": 9, "speciesId": 3, "sfxId": 8 },
+    { "id": 10, "speciesId": 4, "sfxId": 9 },
+    { "id": 11, "speciesId": 4, "sfxId": 10 },
+    { "id": 12, "speciesId": 4, "sfxId": 11 },
+    { "id": 13, "speciesId": 5, "sfxId": 12 },
+    { "id": 14, "speciesId": 5, "sfxId": 13 },
+    { "id": 15, "speciesId": 5, "sfxId": 14 },
+    { "id": 16, "speciesId": 6, "sfxId": 15 },
+    { "id": 17, "speciesId": 6, "sfxId": 16 },
+    { "id": 18, "speciesId": 6, "sfxId": 17 },
+    { "id": 19, "speciesId": 7, "sfxId": 18 },
+    { "id": 20, "speciesId": 7, "sfxId": 19 },
+    { "id": 21, "speciesId": 7, "sfxId": 20 },
+    { "id": 22, "speciesId": 8, "sfxId": 21 },
+    { "id": 23, "speciesId": 8, "sfxId": 22 },
+    { "id": 24, "speciesId": 8, "sfxId": 23 }
+  ],
+  "backgroundSfx": [
+    { "id": 1, "backgroundId": 1, "sfxId": 4 },
+    { "id": 2, "backgroundId": 1, "sfxId": 5 },
+    { "id": 3, "backgroundId": 1, "sfxId": 6 },
+    { "id": 4, "backgroundId": 2, "sfxId": 9 },
+    { "id": 5, "backgroundId": 2, "sfxId": 10 },
+    { "id": 6, "backgroundId": 2, "sfxId": 11 },
+    { "id": 7, "backgroundId": 3, "sfxId": 12 },
+    { "id": 8, "backgroundId": 3, "sfxId": 13 },
+    { "id": 9, "backgroundId": 3, "sfxId": 14 },
+    { "id": 10, "backgroundId": 4, "sfxId": 15 },
+    { "id": 11, "backgroundId": 4, "sfxId": 16 },
+    { "id": 12, "backgroundId": 4, "sfxId": 17 },
+    { "id": 13, "backgroundId": 5, "sfxId": 18 },
+    { "id": 14, "backgroundId": 5, "sfxId": 19 },
+    { "id": 15, "backgroundId": 5, "sfxId": 20 },
+    { "id": 16, "backgroundId": 6, "sfxId": 21 },
+    { "id": 17, "backgroundId": 6, "sfxId": 22 },
+    { "id": 18, "backgroundId": 6, "sfxId": 23 }
+  ]
 }
