@@ -244,6 +244,391 @@
       "id": 23,
       "name": "Insect Might",
       "description": "Spend a PP to step up your Strength die in your dice pool for a test, contest, or challenge that factors in your power and endurance."
+    },
+    {
+      "id": 24,
+      "name": "Busybody",
+      "description": "You may begin to interfere in a contest without spending a PP. Continuing to interfere still costs a PP."
+    },
+    {
+      "id": 25,
+      "name": "That's More Like It",
+      "description": "When you enjoy the comforts of civilization during a recovery scene, choose a stress to step down twice instead of once."
+    },
+    {
+      "id": 26,
+      "name": "Skilled",
+      "description": "Spend a PP to step up or double a specialty."
+    },
+    {
+      "id": 27,
+      "name": "Fellowship",
+      "description": "When you use your kindred distinction in a test, contest, or challenge, you may keep an additional effect die and grant it to another character as an asset."
+    },
+    {
+      "id": 28,
+      "name": "Friendly Face",
+      "description": "When you first meet a human who isn’t hostile towards you, you may gain them as a friendly asset for free. If you spend a PP, you may step up the die rating. You may spend this asset to recover your Afraid, Angry, or Insecure stress."
+    },
+    {
+      "id": 29,
+      "name": "Pastoral",
+      "description": "When you enjoy the rustic life during a recovery scene, choose a stress to step down twice instead of once."
+    },
+    {
+      "id": 30,
+      "name": "Cosmopolitan",
+      "description": "When dealing with other cultures, replace two dice of the same size in your dice pool with a single die of one size higher."
+    },
+    {
+      "id": 31,
+      "name": "Free Spirited",
+      "description": "Spend a PP to convert your Insecure or Afraid stress into another kind of stress. If you already had stress of that new type, step up that stress."
+    },
+    {
+      "id": 32,
+      "name": "Resourceful",
+      "description": "Activate an opportunity to switch out an existing asset for two assets of one step lower in size."
+    },
+    {
+      "id": 33,
+      "name": "Self-Sufficient",
+      "description": "When you are in a test, contest, or challenge against an opponent alone, spend a PP to double your kindred distinction die and keep an extra die in your total."
+    },
+    {
+      "id": 34,
+      "name": "Untethered",
+      "description": "Spend a PP to step up your Mastery or Truth value in your dice pool for a test, contest, or challenge."
+    },
+    {
+      "id": 35,
+      "name": "Lap of Luxury",
+      "description": "When you enjoy the hospitality of others during a recovery scene, choose a stress die to step down twice instead of once."
+    },
+    {
+      "id": 36,
+      "name": "Saving Face",
+      "description": "When you achieve a heroic success, you may keep an additional effect die to recover your Afraid, Angry, or Insecure stress."
+    },
+    {
+      "id": 37,
+      "name": "You, There!",
+      "description": "When you first meet someone of a lower station who isn’t hostile towards you, you may gain them as a friendly asset for free. If you spend a PP, you may step up the die rating. You may spend this asset to recover your Exhausted, Injured, or Insecure stress."
+    },
+    {
+      "id": 38,
+      "name": "Assured",
+      "description": "After you step down one of your values to help another character, you may recover that value at the end of the scene."
+    },
+    {
+      "id": 39,
+      "name": "Code of Conduct",
+      "description": "When you activate an opponent’s hitch during a contest, you can choose to both step up an asset and step down a stress die."
+    },
+    {
+      "id": 40,
+      "name": "Principled",
+      "description": "Spend a PP to step up your Glory or Justice value in your dice pool for a test, contest, or challenge."
+    },
+    {
+      "id": 41,
+      "name": "In the Moment",
+      "description": "Spend a PP and step down an attribute to step up any other attribute once for the duration of a test, contest, or challenge."
+    },
+    {
+      "id": 42,
+      "name": "I Can Do This",
+      "description": "Spend a PP to step up a value associated with a goal you are currently pursuing for the duration of a test, contest, or challenge."
+    },
+    {
+      "id": 43,
+      "name": "Playing with Fire",
+      "description": "When you take Injured stress, you can choose to step it up once. If you do, gain a PP."
+    },
+    {
+      "id": 44,
+      "name": "Bad to the Bone",
+      "description": "Recover either Afraid, Exhausted, or Insecure stress when your actions create a bad situation."
+    },
+    {
+      "id": 45,
+      "name": "Sunny Side Up",
+      "description": "When you succeed on a recovery test to help another character with their Afraid or Insecure stress, step up your effect die once."
+    },
+    {
+      "id": 46,
+      "name": "I Know This One",
+      "description": "Spend a PP to step up or double your Intellect attribute in your pool for the duration of a test, contest, or challenge when you use your vocation distinction."
+    },
+    {
+      "id": 47,
+      "name": "Some Regrets",
+      "description": "Gain a PP when your decision-making causes a bad situation."
+    },
+    {
+      "id": 48,
+      "name": "Tag In",
+      "description": "Give a PP to a character who has just lost a contest. You may now immediately join and continue that contest."
+    },
+    {
+      "id": 49,
+      "name": "How Dare You",
+      "description": "When you take Angry stress, you can choose to step it up once. If you do, gain a PP."
+    },
+    {
+      "id": 50,
+      "name": "Killed the Cat",
+      "description": "Gain a PP when your curious nature gets you into trouble."
+    },
+    {
+      "id": 51,
+      "name": "See If I Care",
+      "description": "When you take Insecure stress, you can choose to step it up once. If you do, gain a PP."
+    },
+    {
+      "id": 52,
+      "name": "I’ll Hold Them Off",
+      "description": "Spend a PP to step up or double your Strength attribute in your pool for the duration of a test, contest, or challenge when you use your vocation distinction."
+    },
+    {
+      "id": 53,
+      "name": "Worrywart",
+      "description": "When you take Afraid stress, you can choose to step it up once. If you do, gain a PP."
+    },
+    {
+      "id": 54,
+      "name": "Bedside Manner",
+      "description": "When you succeed on a recovery test to help another character with their Exhausted or Injured stress, step up your effect die once."
+    },
+    {
+      "id": 55,
+      "name": "Look to the Stars",
+      "description": "Spend a PP to step up or double your Liberty value in your pool for the duration of a test, contest, or challenge when you use your vocation distinction."
+    },
+    {
+      "id": 56,
+      "name": "Table Manners",
+      "description": "When interacting with polite society, spend a PP to double this distinction die in your dice pool and keep an extra die in your total."
+    },
+    {
+      "id": 57,
+      "name": "Panache",
+      "description": "When you achieve a heroic success, instead of stepping up your effect die you may recover a stress of your choice."
+    },
+    {
+      "id": 58,
+      "name": "They Seem Nice",
+      "description": "Gain a PP when putting your trust in someone else lands you in a bad situation."
+    },
+    {
+      "id": 59,
+      "name": "Sure of Heart",
+      "description": "When you roll a hitch while using your Spirit attribute, you can spend a PP to reroll your dice pool. You must keep the result of this new roll."
+    },
+    {
+      "id": 60,
+      "name": "I’ll Remember That",
+      "description": "When you lose a contest, you may create an asset using your opponent’s effect die."
+    },
+    {
+      "id": 61,
+      "name": "Word to the Wild",
+      "description": "Spend a PP to step up or double your attribute die when interacting with animals."
+    },
+    {
+      "id": 62,
+      "name": "Art-to-Heart",
+      "description": "When you spend a recovery scene comforting others, step down their Afraid or Insecure stress an additional time."
+    },
+    {
+      "id": 63,
+      "name": "Green Thumb",
+      "description": "Spend a PP to step up or double your attribute die when interacting with plants."
+    },
+    {
+      "id": 64,
+      "name": "Seeking Answers",
+      "description": "When you question a value, instead of adding a die to your growth pool, you may choose to keep that die as an asset for the rest of the session."
+    },
+    {
+      "id": 65,
+      "name": "Homecooked Meal",
+      "description": "When you spend a recovery scene feeding others, step down their Angry or Exhausted stress an additional time."
+    },
+    {
+      "id": 66,
+      "name": "Softwhere? There!",
+      "description": "Spend a PP to step up or double a specialty that relates to computers during an asset test."
+    },
+    {
+      "id": 67,
+      "name": "Healing Hands",
+      "description": "When you spend a recovery scene treating others, step down their Exhausted or Injured stress an additional time."
+    },
+    {
+      "id": 68,
+      "name": "On the Trail",
+      "description": "Spend a PP to add both your Awareness and Intellect dice to your dice pool in a test, contest, or challenge that deals with searching for clues or deducing a solution, instead of just one attribute."
+    },
+    {
+      "id": 69,
+      "name": "Tactics",
+      "description": "When you activate an opportunity, you may apply its benefits to another character instead of yourself."
+    },
+    {
+      "id": 70,
+      "name": "Take Aim",
+      "description": "When you succeed on a test to create an asset related to firearms, you may step up the effect die by one."
+    },
+    {
+      "id": 71,
+      "name": "I Can Fix It!",
+      "description": "Spend a PP to step up or double a specialty that relates to mechanics during an asset test."
+    },
+    {
+      "id": 72,
+      "name": "On Target",
+      "description": "When tracking a target as a part of a contract, create a free d6 asset called 'On Target' for the duration of the session."
+    },
+    {
+      "id": 73,
+      "name": "Good Trade",
+      "description": "When you give an asset to another character, recover a stress of your choice with that asset before handing it over."
+    },
+    {
+      "id": 74,
+      "name": "Composure",
+      "description": "When you spend a PP to push your Exhausted or Insecure stress, do not step it up."
+    },
+    {
+      "id": 75,
+      "name": "Behind the Wheel",
+      "description": "When piloting a vehicle, spend a PP to double this distinction die in your dice pool and keep an extra die in your total."
+    },
+    {
+      "id": 76,
+      "name": "By the Book",
+      "description": "Spend a PP to add both your Intellect and Spirit dice to your dice pool in a test, contest, or challenge that deals with knowledge, research, or scholarship, instead of just one attribute."
+    },
+    {
+      "id": 77,
+      "name": "Helping Hand",
+      "description": "When a character uses an asset that you created and rolls a hitch, you may give them a PP."
+    },
+    {
+      "id": 78,
+      "name": "Graceful Warrior",
+      "description": "Spend a PP to add both your Agility and Strength dice to your dice pool in a test, contest, or challenge that deals with battle, instead of just one attribute."
+    },
+    {
+      "id": 79,
+      "name": "Sleight of Hand",
+      "description": "When you win a contest, you may choose a second effect die to represent an asset you have stolen from your opponent."
+    },
+    {
+      "id": 80,
+      "name": "Nosebleed",
+      "description": "When you push your Exhausted stress in a test, contest, or challenge, you may also step up the ESP specialty you are using in the contest, increasing the scope of your ESP to that of the next die level."
+    },
+    {
+      "id": 81,
+      "name": "Blessing in Disguise",
+      "description": "When you suffer a consequence from a failed contest, create an asset from your opponent’s effect die."
+    },
+    {
+      "id": 82,
+      "name": "Let Me Explain",
+      "description": "Spend a PP to step up or double your Spirit attribute in your dice pool when arguing your point in a test, contest, or challenge."
+    },
+    {
+      "id": 83,
+      "name": "Oops!",
+      "description": "Gain a PP when your mistake causes a bad situation."
+    },
+    {
+      "id": 84,
+      "name": "Always Prepared",
+      "description": "Spend a PP to create an asset using a specialty, even if you’re not in the appropriate scene to justify it."
+    },
+    {
+      "id": 85,
+      "name": "Good Timing",
+      "description": "When you roll a heroic success, create an asset related to the success for free."
+    },
+    {
+      "id": 86,
+      "name": "What Luck!",
+      "description": "Spend a PP to step up or double a specialty related to chance or gambling during a test, contest, or challenge."
+    },
+    {
+      "id": 87,
+      "name": "Quick Thinker",
+      "description": "When you activate an opportunity, create an asset related to your quick thinking for free."
+    },
+    {
+      "id": 88,
+      "name": "Draw Their Attention",
+      "description": "When you create an asset for another character, you may take Angry or Afraid stress to step up the die rating by one."
+    },
+    {
+      "id": 89,
+      "name": "Hard Bargain",
+      "description": "When you spend an asset to recover stress, step it up before it is spent."
+    },
+    {
+      "id": 90,
+      "name": "Let’s Get Serious",
+      "description": "Spend a PP to double a value die related to your motivation in a test, contest, or challenge."
+    },
+    {
+      "id": 91,
+      "name": "On a Roll",
+      "description": "When you achieve a heroic success, create an asset related to your momentum for free."
+    },
+    {
+      "id": 92,
+      "name": "Deft Hands",
+      "description": "Spend a PP to step up or double your Agility attribute in a test, contest, or challenge related to dexterity or fine motor skills."
+    },
+    {
+      "id": 93,
+      "name": "I Have a Plan",
+      "description": "Spend a PP to step up an asset related to strategy or planning in a test, contest, or challenge."
+    },
+    {
+      "id": 94,
+      "name": "Sheer Willpower",
+      "description": "Spend a PP to step up your Spirit attribute when resisting mental or emotional stress."
+    },
+    {
+      "id": 95,
+      "name": "Just Watch Me",
+      "description": "Gain a PP when taking Insecure stress leads to a bad situation."
+    },
+    {
+      "id": 96,
+      "name": "All In",
+      "description": "When you push a stress die to attempt a daring maneuver, gain a PP."
+    },
+    {
+      "id": 97,
+      "name": "Steady Hand",
+      "description": "When using a specialty related to precision, you may step up the effect die for free."
+    },
+    {
+      "id": 98,
+      "name": "Unexpected Ally",
+      "description": "When you fail a contest, you may spend a PP to turn an NPC into an asset for the next scene."
+    },
+    {
+      "id": 99,
+      "name": "Unlikely Success",
+      "description": "When you succeed on a test where you were at a disadvantage, create an asset related to your perseverance for free."
+    },
+    {
+      "id": 100,
+      "name": "Quick Learner",
+      "description": "Spend a PP to step up or double a specialty related to adaptation or learning in a test, contest, or challenge."
     }
   ],
   "speciesSfx": [
@@ -273,23 +658,520 @@
     { "id": 24, "speciesId": 8, "sfxId": 23 }
   ],
   "backgroundSfx": [
-    { "id": 1, "backgroundId": 1, "sfxId": 4 },
-    { "id": 2, "backgroundId": 1, "sfxId": 5 },
-    { "id": 3, "backgroundId": 1, "sfxId": 6 },
-    { "id": 4, "backgroundId": 2, "sfxId": 9 },
-    { "id": 5, "backgroundId": 2, "sfxId": 10 },
-    { "id": 6, "backgroundId": 2, "sfxId": 11 },
-    { "id": 7, "backgroundId": 3, "sfxId": 12 },
-    { "id": 8, "backgroundId": 3, "sfxId": 13 },
-    { "id": 9, "backgroundId": 3, "sfxId": 14 },
-    { "id": 10, "backgroundId": 4, "sfxId": 15 },
-    { "id": 11, "backgroundId": 4, "sfxId": 16 },
-    { "id": 12, "backgroundId": 4, "sfxId": 17 },
-    { "id": 13, "backgroundId": 5, "sfxId": 18 },
-    { "id": 14, "backgroundId": 5, "sfxId": 19 },
-    { "id": 15, "backgroundId": 5, "sfxId": 20 },
-    { "id": 16, "backgroundId": 6, "sfxId": 21 },
-    { "id": 17, "backgroundId": 6, "sfxId": 22 },
-    { "id": 18, "backgroundId": 6, "sfxId": 23 }
+    { "id": 1, "backgroundId": 1, "sfxId": 24 },
+    { "id": 2, "backgroundId": 1, "sfxId": 25 },
+    { "id": 3, "backgroundId": 1, "sfxId": 26 },
+    { "id": 4, "backgroundId": 2, "sfxId": 27 },
+    { "id": 5, "backgroundId": 2, "sfxId": 28 },
+    { "id": 6, "backgroundId": 2, "sfxId": 29 },
+    { "id": 7, "backgroundId": 3, "sfxId": 30 },
+    { "id": 8, "backgroundId": 3, "sfxId": 31 },
+    { "id": 9, "backgroundId": 3, "sfxId": 32 },
+    { "id": 10, "backgroundId": 4, "sfxId": 33 },
+    { "id": 11, "backgroundId": 4, "sfxId": 34 },
+    { "id": 12, "backgroundId": 4, "sfxId": 35 },
+    { "id": 13, "backgroundId": 5, "sfxId": 36 },
+    { "id": 14, "backgroundId": 5, "sfxId": 37 },
+    { "id": 15, "backgroundId": 5, "sfxId": 38 },
+    { "id": 16, "backgroundId": 6, "sfxId": 39 },
+    { "id": 17, "backgroundId": 6, "sfxId": 40 },
+    { "id": 18, "backgroundId": 6, "sfxId": 27 }
+  ],
+  "adjectiveSfx": [
+    { "id": 1, "adjectiveId": 1, "sfxId": 41 },
+    { "id": 2, "adjectiveId": 2, "sfxId": 42 },
+    { "id": 3, "adjectiveId": 3, "sfxId": 43 },
+    { "id": 4, "adjectiveId": 4, "sfxId": 44 },
+    { "id": 5, "adjectiveId": 5, "sfxId": 45 },
+    { "id": 6, "adjectiveId": 6, "sfxId": 46 },
+    { "id": 7, "adjectiveId": 7, "sfxId": 47 },
+    { "id": 8, "adjectiveId": 8, "sfxId": 48 },
+    { "id": 9, "adjectiveId": 9, "sfxId": 49 },
+    { "id": 10, "adjectiveId": 10, "sfxId": 50 },
+    { "id": 11, "adjectiveId": 11, "sfxId": 51 },
+    { "id": 12, "adjectiveId": 12, "sfxId": 52 },
+    { "id": 13, "adjectiveId": 13, "sfxId": 53 },
+    { "id": 14, "adjectiveId": 14, "sfxId": 54 },
+    { "id": 15, "adjectiveId": 15, "sfxId": 55 },
+    { "id": 16, "adjectiveId": 16, "sfxId": 56 },
+    { "id": 17, "adjectiveId": 17, "sfxId": 57 },
+    { "id": 18, "adjectiveId": 18, "sfxId": 58 },
+    { "id": 19, "adjectiveId": 19, "sfxId": 59 },
+    { "id": 20, "adjectiveId": 20, "sfxId": 60 }
+  ],
+  "jobSfx": [
+    { "id": 1, "jobId": 1, "sfxId": 61 },
+    { "id": 2, "jobId": 2, "sfxId": 62 },
+    { "id": 3, "jobId": 3, "sfxId": 63 },
+    { "id": 4, "jobId": 4, "sfxId": 64 },
+    { "id": 5, "jobId": 5, "sfxId": 65 },
+    { "id": 6, "jobId": 6, "sfxId": 66 },
+    { "id": 7, "jobId": 7, "sfxId": 67 },
+    { "id": 8, "jobId": 8, "sfxId": 68 },
+    { "id": 9, "jobId": 9, "sfxId": 69 },
+    { "id": 10, "jobId": 10, "sfxId": 70 },
+    { "id": 11, "jobId": 11, "sfxId": 71 },
+    { "id": 12, "jobId": 12, "sfxId": 72 },
+    { "id": 13, "jobId": 13, "sfxId": 73 },
+    { "id": 14, "jobId": 14, "sfxId": 74 },
+    { "id": 15, "jobId": 15, "sfxId": 75 },
+    { "id": 16, "jobId": 16, "sfxId": 76 },
+    { "id": 17, "jobId": 17, "sfxId": 77 },
+    { "id": 18, "jobId": 18, "sfxId": 78 },
+    { "id": 19, "jobId": 19, "sfxId": 79 }
+  ],
+  "quirkSfx": [
+    { "id": 1, "quirkId": 1, "sfxId": 81 },
+    { "id": 2, "quirkId": 2, "sfxId": 82 },
+    { "id": 3, "quirkId": 3, "sfxId": 83 },
+    { "id": 4, "quirkId": 4, "sfxId": 84 },
+    { "id": 5, "quirkId": 5, "sfxId": 85 },
+    { "id": 6, "quirkId": 6, "sfxId": 86 },
+    { "id": 7, "quirkId": 7, "sfxId": 87 },
+    { "id": 8, "quirkId": 8, "sfxId": 88 },
+    { "id": 9, "quirkId": 9, "sfxId": 89 },
+    { "id": 10, "quirkId": 10, "sfxId": 90 },
+    { "id": 11, "quirkId": 11, "sfxId": 91 },
+    { "id": 12, "quirkId": 12, "sfxId": 92 },
+    { "id": 13, "quirkId": 13, "sfxId": 93 },
+    { "id": 14, "quirkId": 14, "sfxId": 94 },
+    { "id": 15, "quirkId": 15, "sfxId": 95 },
+    { "id": 16, "quirkId": 16, "sfxId": 96 },
+    { "id": 17, "quirkId": 17, "sfxId": 97 },
+    { "id": 18, "quirkId": 18, "sfxId": 98 },
+    { "id": 19, "quirkId": 19, "sfxId": 99 },
+    { "id": 20, "quirkId": 20, "sfxId": 100 }
+  ],
+  "adjectives": [
+    {
+      "id": 1,
+      "valueId": 3,
+      "name": "Adaptable",
+      "description": "You adjust easily to new challenges and environments, always finding a way to thrive."
+    },
+    {
+      "id": 2,
+      "valueId": 4,
+      "name": "Ambitious",
+      "description": "You are driven to achieve greatness, setting high goals and stopping at nothing to reach them."
+    },
+    {
+      "id": 3,
+      "valueId": 2,
+      "name": "Brazen",
+      "description": "You face the world with boldness, unafraid to take risks or speak your mind."
+    },
+    {
+      "id": 4,
+      "valueId": 6,
+      "name": "Brooding",
+      "description": "You are deep and contemplative, often preoccupied with the darker side of life."
+    },
+    {
+      "id": 5,
+      "valueId": 1,
+      "name": "Cheerful",
+      "description": "You bring light to others, always finding a way to stay positive and encourage your companions."
+    },
+    {
+      "id": 6,
+      "valueId": 4,
+      "name": "Clever",
+      "description": "You use your sharp mind to solve problems, often staying two steps ahead of everyone else."
+    },
+    {
+      "id": 7,
+      "valueId": 5,
+      "name": "Decisive",
+      "description": "You make quick, confident decisions and rarely hesitate when the pressure is on."
+    },
+    {
+      "id": 8,
+      "valueId": 2,
+      "name": "Fearless",
+      "description": "You face danger head-on, refusing to let fear hold you back."
+    },
+    {
+      "id": 9,
+      "valueId": 2,
+      "name": "Hothead",
+      "description": "Your fiery personality makes you passionate and bold, though it sometimes gets you into trouble."
+    },
+    {
+      "id": 10,
+      "valueId": 6,
+      "name": "Inquisitive",
+      "description": "You have a boundless curiosity, constantly seeking answers and uncovering mysteries."
+    },
+    {
+      "id": 11,
+      "valueId": 3,
+      "name": "Jaded",
+      "description": "Your experience has made you skeptical, but your cynicism protects you from being hurt."
+    },
+    {
+      "id": 12,
+      "valueId": 2,
+      "name": "Mighty",
+      "description": "Your sheer physical strength and determination make you a force to be reckoned with."
+    },
+    {
+      "id": 13,
+      "valueId": 4,
+      "name": "Nervous",
+      "description": "Your constant worry keeps you alert and prepared for the worst."
+    },
+    {
+      "id": 14,
+      "valueId": 1,
+      "name": "Nurturing",
+      "description": "You are naturally caring and protective, always looking out for others."
+    },
+    {
+      "id": 15,
+      "valueId": 4,
+      "name": "Pragmatic",
+      "description": "You are practical and realistic, preferring solutions that work over idealistic dreams."
+    },
+    {
+      "id": 16,
+      "valueId": 4,
+      "name": "Refined",
+      "description": "You carry yourself with elegance and sophistication, even in the most chaotic situations."
+    },
+    {
+      "id": 17,
+      "valueId": 2,
+      "name": "Stylish",
+      "description": "You are always on top of the latest trends, looking runway-ready no matter the setting."
+    },
+    {
+      "id": 18,
+      "valueId": 1,
+      "name": "Trusting",
+      "description": "You believe in the goodness of others, often forging deep and meaningful connections."
+    },
+    {
+      "id": 19,
+      "valueId": 4,
+      "name": "Unyielding",
+      "description": "Your stubborn resolve allows you to stand strong in the face of adversity."
+    },
+    {
+      "id": 20,
+      "valueId": 5,
+      "name": "Vengeful",
+      "description": "You never forget a slight and will go to great lengths to ensure justice is served."
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "valueId": 4,
+      "name": "Artist",
+      "description": "You use creativity to inspire and comfort, channeling your emotions into art."
+    },
+    {
+      "id": 2,
+      "valueId": 1,
+      "name": "Botanist",
+      "description": "You understand plants deeply, from their medicinal properties to their ecological importance."
+    },
+    {
+      "id": 3,
+      "valueId": 4,
+      "name": "Clergy",
+      "description": "You seek deeper meaning in life, guiding others through questions of faith and morality."
+    },
+    {
+      "id": 4,
+      "valueId": 1,
+      "name": "Cook",
+      "description": "You turn ingredients into masterpieces, providing comfort and strength through your cooking."
+    },
+    {
+      "id": 5,
+      "valueId": 3,
+      "name": "Hacker",
+      "description": "You manipulate systems and data, finding creative ways to unlock secrets."
+    },
+    {
+      "id": 6,
+      "valueId": 1,
+      "name": "Healer",
+      "description": "You are a skilled caregiver, dedicated to treating injuries and saving lives."
+    },
+    {
+      "id": 7,
+      "valueId": 6,
+      "name": "Investigator",
+      "description": "You’re a keen observer, piecing together clues to uncover hidden truths."
+    },
+    {
+      "id": 8,
+      "valueId": 5,
+      "name": "Leader",
+      "description": "You inspire others with your guidance and decisiveness, always leading from the front."
+    },
+    {
+      "id": 9,
+      "valueId": 4,
+      "name": "Marksman",
+      "description": "You are a sharpshooter, with an uncanny ability to hit your targets."
+    },
+    {
+      "id": 10,
+      "valueId": 4,
+      "name": "Mechanic",
+      "description": "You’re the go-to person for fixing and building machines, keeping everything running smoothly."
+    },
+    {
+      "id": 11,
+      "valueId": 5,
+      "name": "Mercenary",
+      "description": "You are a professional soldier for hire, always focused on the mission."
+    },
+    {
+      "id": 12,
+      "valueId": 2,
+      "name": "Merchant",
+      "description": "You thrive in trade and negotiation, always spotting the best deals and opportunities."
+    },
+    {
+      "id": 13,
+      "valueId": 2,
+      "name": "Performer",
+      "description": "You captivate audiences, using your charisma and flair to steal the show."
+    },
+    {
+      "id": 14,
+      "valueId": 4,
+      "name": "Pilot",
+      "description": "You have unmatched skill at navigating vehicles, from starships to speeders."
+    },
+    {
+      "id": 15,
+      "valueId": 6,
+      "name": "Scholar",
+      "description": "You are a repository of knowledge, constantly researching and learning to expand your expertise."
+    },
+    {
+      "id": 16,
+      "valueId": 1,
+      "name": "Servant",
+      "description": "You are dependable and hardworking, always there to assist and support others."
+    },
+    {
+      "id": 17,
+      "valueId": 5,
+      "name": "Soldier",
+      "description": "You are trained in combat, bringing discipline and strategy to the battlefield."
+    },
+    {
+      "id": 18,
+      "valueId": 3,
+      "name": "Thief",
+      "description": "You’re a master of stealth and cunning, excelling at acquiring things that aren’t yours."
+    },
+    {
+      "id": 19,
+      "valueId": 6,
+      "name": "ESPer",
+      "description": "You possess extraordinary mental abilities, from telepathy to predicting the future."
+    }
+  ],
+  "quirks": [
+    {
+      "id": 1,
+      "valueId": 3,
+      "name": "Act First, Think Later",
+      "description": "You jump into situations without preparation, relying on instinct and quick thinking."
+    },
+    {
+      "id": 2,
+      "valueId": 2,
+      "name": "Anything for My Fans",
+      "description": "Your drive to impress sometimes puts you in sticky situations."
+    },
+    {
+      "id": 3,
+      "valueId": 4,
+      "name": "Chronically Underestimated",
+      "description": "People tend to underestimate you, which you use to your advantage."
+    },
+    {
+      "id": 4,
+      "valueId": 1,
+      "name": "Courageous Combatant",
+      "description": "You willingly put yourself in harm's way to protect those you care about."
+    },
+    {
+      "id": 5,
+      "valueId": 6,
+      "name": "Dark Secrets",
+      "description": "You have a shadowy past and know how to keep a secret—until it becomes useful to share."
+    },
+    {
+      "id": 6,
+      "valueId": 5,
+      "name": "Dashing Do-Gooder",
+      "description": "You are a charismatic hero who inspires others to do the right thing."
+    },
+    {
+      "id": 7,
+      "valueId": 4,
+      "name": "Fickle Luck",
+      "description": "Your fortune is unpredictable, helping you one moment and failing you the next."
+    },
+    {
+      "id": 8,
+      "valueId": 4,
+      "name": "Friend Indeed",
+      "description": "You excel at forging strong connections and supporting others in their moments of need."
+    },
+    {
+      "id": 9,
+      "valueId": 3,
+      "name": "Friend of the Forest",
+      "description": "You have a special affinity for animals and nature."
+    },
+    {
+      "id": 10,
+      "valueId": 2,
+      "name": "High and Mighty",
+      "description": "Your privileged upbringing sometimes leads to overconfidence or trouble."
+    },
+    {
+      "id": 11,
+      "valueId": 5,
+      "name": "Life Is Precious",
+      "description": "You believe in the value of every life and go to great lengths to help others heal."
+    },
+    {
+      "id": 12,
+      "valueId": 2,
+      "name": "My Time to Shine",
+      "description": "You crave the spotlight, sometimes to the detriment of the group."
+    },
+    {
+      "id": 13,
+      "valueId": 6,
+      "name": "My Word Is My Bond",
+      "description": "You hold promises sacred, and breaking one carries a heavy cost."
+    },
+    {
+      "id": 14,
+      "valueId": 1,
+      "name": "Never Back Down",
+      "description": "Your determination and resilience are your greatest strengths."
+    },
+    {
+      "id": 15,
+      "valueId": 3,
+      "name": "No Rest for the Wicked",
+      "description": "You push through exhaustion, refusing to let fatigue slow you down."
+    },
+    {
+      "id": 16,
+      "valueId": 5,
+      "name": "Occasional Pacifist",
+      "description": "You prefer to avoid violence, stepping aside when possible."
+    },
+    {
+      "id": 17,
+      "valueId": 6,
+      "name": "Simple Is Best",
+      "description": "You have a knack for finding the most straightforward solutions to complex problems."
+    },
+    {
+      "id": 18,
+      "valueId": 1,
+      "name": "Thoughtful Mediator",
+      "description": "You are skilled at finding common ground, even in the heat of conflict."
+    },
+    {
+      "id": 19,
+      "valueId": 3,
+      "name": "Two Left Feet",
+      "description": "Your clumsiness often leads to unexpected outcomes, for better or worse."
+    },
+    {
+      "id": 20,
+      "valueId": 3,
+      "name": "Watchful Expatriate",
+      "description": "You are always on alert, ready to assist allies and thwart threats."
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "Agility",
+      "description": "Your hand-eye coordination and speed. Use this when you need to fight, sneak, aim, or balance."
+    },
+    {
+      "id": 2,
+      "name": "Awareness",
+      "description": "Your ability to perceive your surroundings and other people. Use this as you pay attention to the world around you."
+    },
+    {
+      "id": 3,
+      "name": "Influence",
+      "description": "Your presence and persuasiveness. Use this while you convince, coerce, charm, or collude."
+    },
+    {
+      "id": 4,
+      "name": "Intellect",
+      "description": "Your capacity to comprehend. Use this to study, learn, recall things you know, or figure out a puzzle."
+    },
+    {
+      "id": 5,
+      "name": "Spirit",
+      "description": "Your mental resolve and emotional reserves. Use this when the situation requires courage, determination, perseverance, or willpower."
+    },
+    {
+      "id": 6,
+      "name": "Strength",
+      "description": "Your level of physical fitness and power. Use this if you’re called to be tough, strong, or use brute force."
+    }
+  ],
+  "specialties": [],
+  "assets": [],
+  "characterStresses": [],
+  "characterQuirks": [],
+  "characterAttributes": [],
+  "characterValues": [],
+  "vocationDistinctions": [],
+  "characterSfx": [],
+  "stresses": [
+    {
+      "id": 1,
+      "name": "Afraid",
+      "description": "This is the stress of fear and panic. Once this exceeds a d12, you are gripped in the clutches of terror."
+    },
+    {
+      "id": 2,
+      "name": "Angry",
+      "description": "This is the stress of rage and frustration. Once this exceeds a d12, you are lost to your wrath."
+    },
+    {
+      "id": 3,
+      "name": "Corrupted",
+      "description": "This is the stress of selfishness and greed. Once this exceeds a d12, you are a slave to your self-interest."
+    },
+    {
+      "id": 4,
+      "name": "Exhausted",
+      "description": "This is the stress of fatigue and weariness. Once this exceeds a d12, you can no longer remain awake."
+    },
+    {
+      "id": 5,
+      "name": "Injured",
+      "description": "This is the stress of pain and wounding. Once this exceeds a d12, you collapse unconscious and may die (don't worry: it's the future and death is temporary)."
+    },
+    {
+      "id": 6,
+      "name": "Insecure",
+      "description": "This is the stress of apprehension and worry. Once this exceeds a d12, you succumb to insecurity."
+    }
   ]
 }
