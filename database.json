@@ -127,7 +127,6 @@
     }
   ],
   "characters": [],
-  "kindredDistinctions": [],
   "users": [{ "id": 1, "username": "anhomily" }],
   "sfx": [
     {
@@ -1137,10 +1136,11 @@
   "specialties": [],
   "assets": [],
   "characterStresses": [],
-  "characterQuirks": [],
   "characterAttributes": [],
   "characterValues": [],
+  "kindredDistinctions": [],
   "vocationDistinctions": [],
+  "quirkDistinctions": [],
   "characterSfx": [],
   "stresses": [
     {
