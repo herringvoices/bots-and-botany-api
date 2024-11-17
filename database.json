@@ -9,41 +9,48 @@
     },
     {
       "id": 2,
+      "name": "Avia",
+      "description": "The Avia present an uncanny resemblance to Earth’s birds, from their clawed feet and colorful feathers to their hard beaks and expressive eyes. Even more puzzling is their societal structure, which closely mirrors Earth’s feudal Europe. Noble families vie for power within rigid hierarchies, monarchs rule over intricate courtly traditions, and disputes are resolved through ceremonial contests of skill and intellect. How a sentient alien species developed both the physical characteristics of Earth avians and such a strikingly familiar societal model is a question that remains unanswered. Yet, given the galaxy's peculiarities, it’s simply one more enigma to accept and move on from.",
+      "valueId": 3,
+      "image": "/images/avia/avia.png"
+    },
+    {
+      "id": 3,
       "name": "Calxis",
       "description": "Calxis are sentient beings of living rock, with intricate crystalline networks functioning as their neural systems. They excel in holistic thinking and pattern recognition, preferring intuitive leaps over linear analysis. Unable to reproduce off their homeworld, Calxis are rare, journeying back to carve offspring from their own bodies. They communicate through intricate light displays across a range of wavelengths, as they cannot hear. Renowned for their mastery of fusion technology, they are key to powering galactic devices and mining operations. Calxis bring a methodical, community-centered perspective, embodying stability and insight in an ever-changing galaxy.",
       "valueId": 4,
       "image": "/images/calxis/calxis.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Feararc",
       "description": "Feararcs are semiaquatic hunters from icy, water-rich planets, standing about six feet tall with muscular bodies and camouflage-adaptive fur. Their fur seals for swimming or splits to trap heat on land, allowing them to blend seamlessly with cold environments. Feararcs are primarily solitary, exhibiting intelligence, patience, and highly strategic thinking in their hunts. Though they lack advanced technology, they sometimes explore the galaxy out of curiosity. Many Feararcs choose self-exile, preferring the freedom of solitude. Skilled in survival and analysis, Feararcs find balance between their instincts and a cautious curiosity about the universe.",
       "valueId": 5,
       "image": "/images/feararc/feararc.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Flora",
       "description": "Flora are sentient plants, comprising immobile god-trees and mobile Stock caretakers. God-trees are masters of genetic manipulation, creating biotech wonders like starships, bioluminescent lights, and woven bio-roads, though they remain rooted in place. The Stock, adaptable in form, move freely and maintain ecosystems, worshiping the god-trees as sacred entities. Flora society embodies unity and ecological harmony, extending across star systems in a vast territory called the “Pantheon.” Each god-tree’s values shape the communities under its influence, and the Flora’s deep commitment to sustainability and symbiosis defines their interstellar reputation.",
       "valueId": 1,
       "image": "/images/flora/flora.png"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Human",
       "description": "Humans, often referred to as “poopers” by other species, are adaptable newcomers to the galaxy. While other species come in a range of vibrant colors, humans are only found in shades of brown. This is particularly odd because they possess some of the most advanced color vision in the galaxy, surpassed only by the Calxis. Originating mostly from corporate-controlled star systems, humans balance individuality with corporate influence. Resourceful and quick to adapt, humans form alliances easily and are skilled at navigating interspecies complexities.",
       "valueId": 2,
       "image": "/images/human/human.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Machina",
       "description": "Originally created by humans, Machina evolved into fully sentient beings and now form the galaxy’s most populous species. Machina exist in diverse forms and ideologies, from physical beings to Ether-dwelling consciousnesses within the galaxy-spanning internet. They’re known for creating advanced technology, including Grav Drives and Ether systems, and for their philosophical diversity. Some, like “Flawed Machina,” embrace imperfection, while others, like “One-Body Machina,” believe in a single inseparable physical form. Despite their technological superiority, Machina face complex relationships with humans, balancing a deep-rooted history of servitude with their hard-won independence.",
       "valueId": 6,
       "image": "/images/machina/machina.png"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Vearin",
       "description": "The Vearin are a hive-based insectoid species with a strict caste system comprising Laborers, Warriors, Drones, and Royals. They have segmented bodies, four legs, and four arms. For Warriors and Royals, the upper pair of arms are blade-like appendages extending from their shoulders; in Drones, they are vestigial wings; in Laborers, these extra arms, called tool-arms, are specialized for tasks like lifting and building. Vearin prioritize hive welfare above individuality, using chemical signals and sound for communication. If a hive’s Royals are lost, the remaining “hiveless” Vearin form “found-hives” with other species, carrying their strong loyalty to these new groups.",
       "valueId": 1,
