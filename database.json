@@ -635,6 +635,11 @@
       "id": 100,
       "name": "Quick Learner",
       "description": "Spend a PP to step up or double a specialty related to adaptation or learning in a test, contest, or challenge."
+    },
+    {
+      "id": 101,
+      "Name": "Hinder",
+      "description": "Gain a PP when you step a distinction down to a d4 for an action."
     }
   ],
   "speciesSfx": [
