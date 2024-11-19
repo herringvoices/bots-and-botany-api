@@ -724,7 +724,8 @@
     { "id": 16, "jobId": 16, "sfxId": 76 },
     { "id": 17, "jobId": 17, "sfxId": 77 },
     { "id": 18, "jobId": 18, "sfxId": 78 },
-    { "id": 19, "jobId": 19, "sfxId": 79 }
+    { "id": 19, "jobId": 19, "sfxId": 79 },
+    { "id": 20, "jobId": 20, "sfxId": 80 }
   ],
   "quirkSfx": [
     { "id": 1, "quirkId": 1, "sfxId": 81 },
@@ -873,114 +874,120 @@
   "jobs": [
     {
       "id": 1,
+      "valueId": 1,
+      "name": "Animal Handler",
+      "description": "You have a natural talent for working with animals, earning their trust and understanding their needs."
+    },
+    {
+      "id": 2,
       "valueId": 4,
       "name": "Artist",
       "description": "You use creativity to inspire and comfort, channeling your emotions into art."
     },
     {
-      "id": 2,
+      "id": 3,
       "valueId": 1,
       "name": "Botanist",
       "description": "You understand plants deeply, from their medicinal properties to their ecological importance."
     },
     {
-      "id": 3,
+      "id": 4,
       "valueId": 4,
       "name": "Clergy",
       "description": "You seek deeper meaning in life, guiding others through questions of faith and morality."
     },
     {
-      "id": 4,
+      "id": 5,
       "valueId": 1,
       "name": "Cook",
       "description": "You turn ingredients into masterpieces, providing comfort and strength through your cooking."
     },
     {
-      "id": 5,
+      "id": 6,
       "valueId": 3,
       "name": "Hacker",
       "description": "You manipulate systems and data, finding creative ways to unlock secrets."
     },
     {
-      "id": 6,
+      "id": 7,
       "valueId": 1,
       "name": "Healer",
       "description": "You are a skilled caregiver, dedicated to treating injuries and saving lives."
     },
     {
-      "id": 7,
+      "id": 8,
       "valueId": 6,
       "name": "Investigator",
       "description": "You’re a keen observer, piecing together clues to uncover hidden truths."
     },
     {
-      "id": 8,
+      "id": 9,
       "valueId": 5,
       "name": "Leader",
       "description": "You inspire others with your guidance and decisiveness, always leading from the front."
     },
     {
-      "id": 9,
+      "id": 10,
       "valueId": 4,
       "name": "Marksman",
       "description": "You are a sharpshooter, with an uncanny ability to hit your targets."
     },
     {
-      "id": 10,
+      "id": 11,
       "valueId": 4,
       "name": "Mechanic",
       "description": "You’re the go-to person for fixing and building machines, keeping everything running smoothly."
     },
     {
-      "id": 11,
+      "id": 12,
       "valueId": 5,
       "name": "Mercenary",
       "description": "You are a professional soldier for hire, always focused on the mission."
     },
     {
-      "id": 12,
+      "id": 13,
       "valueId": 2,
       "name": "Merchant",
       "description": "You thrive in trade and negotiation, always spotting the best deals and opportunities."
     },
     {
-      "id": 13,
+      "id": 14,
       "valueId": 2,
       "name": "Performer",
       "description": "You captivate audiences, using your charisma and flair to steal the show."
     },
     {
-      "id": 14,
+      "id": 15,
       "valueId": 4,
       "name": "Pilot",
       "description": "You have unmatched skill at navigating vehicles, from starships to speeders."
     },
     {
-      "id": 15,
+      "id": 16,
       "valueId": 6,
       "name": "Scholar",
       "description": "You are a repository of knowledge, constantly researching and learning to expand your expertise."
     },
     {
-      "id": 16,
+      "id": 17,
       "valueId": 1,
       "name": "Servant",
       "description": "You are dependable and hardworking, always there to assist and support others."
     },
     {
-      "id": 17,
+      "id": 18,
       "valueId": 5,
       "name": "Soldier",
       "description": "You are trained in combat, bringing discipline and strategy to the battlefield."
     },
     {
-      "id": 18,
+      "id": 19,
       "valueId": 3,
       "name": "Thief",
       "description": "You’re a master of stealth and cunning, excelling at acquiring things that aren’t yours."
     },
     {
-      "id": 19,
+      "id": 20,
       "valueId": 6,
       "name": "ESPer",
       "description": "You possess extraordinary mental abilities, from telepathy to predicting the future."
